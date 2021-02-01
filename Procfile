@@ -1,2 +1,2 @@
 web: gunicorn myapi.wsgi
-clock: python commit-bell.py
+clock: python commit-bell
